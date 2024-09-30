@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there, I'm Neel 👋<br>I'm a Front-end Developer with experience in building web applications using React and Next.js. With 6 months of internship experience and 7 months working full-time in the same role, I’m passionate about writing efficient code and crafting interactive user interfaces.<br><br>About Me:<br>🌐 Front-end Developer proficient in React and Next.js.<br>🏢 Currently working full-time with 7 months of experience.<br>🌱 Interests: Traveling, Writing, and Playing Cricket.<br><br>Skills & Tech Stack:<br>Languages: HTML, CSS, JavaScript, React, Next.js, Node.js, Bootstrap, Tailwind CSS.<br>Tools: Firebase, GPT, Figma.
+Hi there, I'm Neel 👋<br>As a passionate and detail-oriented Front-End Developer, I specialize in crafting responsive and intuitive user interfaces using modern web technologies like React and Next.js. With a strong foundation in HTML, CSS, and JavaScript, I am adept at building scalable, maintainable, and performance-optimized applications.
+
+Over the course of my career, I’ve accumulated hands-on experience in front-end development, starting with a 6-month internship and now working full-time for the past 7 months. My expertise includes utilizing tools like Tailwind CSS and Bootstrap for efficient styling, and integrating services like Firebase to enhance web functionality.
+
+I enjoy working in collaborative environments where I can contribute to innovative projects, continuously improving my skills. With a keen interest in creating seamless digital experiences, I’m always looking for new challenges in the world of web development.<br><br>About Me:<br>🌐 Front-end Developer proficient in React and Next.js.<br>🏢 Currently working full-time with 7 months of experience.<br>🌱 Interests: Traveling, Writing, and Playing Cricket.<br><br>Skills & Tech Stack:<br>Languages: HTML, CSS, JavaScript, React, Next.js, Node.js, Bootstrap, Tailwind CSS.<br>Tools: Firebase, GPT, Figma.
 
 
 ## 🌐 Socials:
